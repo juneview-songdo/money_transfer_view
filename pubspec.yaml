@@ -1,7 +1,7 @@
 name: money_transfer_view
-description: "Description here"
+description: "Money Transfer View"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/money_transfer_view
 
 version: 1.0.0+1
 
